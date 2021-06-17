@@ -13,9 +13,9 @@ I am a 3rd-year B.Tech student in Banasthali Vidyapith who always believes in gr
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya0504&label=Profile%20views&color=0e75b6&style=flat" alt="ananya0504" /> </p> -->
 
-<!-- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Antrixauras&label=Profile%20views&color=129e00&style=plastic" alt="Antrixauras" /> </p>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/416090453070167094/"> -->
+<img align="right" alt="Coding" width="400" src="coding.gif">
 
 <!-- https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif -->
 
