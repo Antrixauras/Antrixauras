@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Kanishka Gupta</h1>
+<h1 align="left">Hi 🪐, I'm Kanishka Gupta</h1>
 <!-- <h3 align="left">Connect with me:</h3>
 
 <p align="left">
