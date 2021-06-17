@@ -32,7 +32,7 @@ I am a 3rd-year B.Tech student in Banasthali Vidyapith who always believes in gr
 
 - 📫 How to reach me **guptakanishka2003@gmail.com**
 
-- ⚡ Fun fact **Suggest me some good Sci-Fi movies :)))))**
+- ⚡ Fun fact **Suggest me some good Sci-Fi movies :D**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
