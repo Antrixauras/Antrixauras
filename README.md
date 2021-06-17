@@ -9,7 +9,7 @@
 </p>
  -->
  
-I am a 3rd-year B.Tech student in Banasthali Vidyapith who always believes in grabbing new opportunities and getting experiences as "Every experience makes you grow". I love to do competitive programming. I have working in Java and developed BV Mart, an online web based goods trading platform. I am also working in Machine Learning.
+I am a 3rd-year B.Tech student in Banasthali Vidyapith who always believes in learning and getting experiences as "Every experience makes you grow". I love to do competitive programming. I have worked on Java and Machine Learning. I have also found keen interest in designing too.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya0504&label=Profile%20views&color=0e75b6&style=flat" alt="ananya0504" /> </p> -->
 
