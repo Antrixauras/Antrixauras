@@ -22,7 +22,7 @@ I am a 3rd-year B.Tech student in Banasthali Vidyapith who always believes in le
 
 - 🔭 I’m currently working on - **Machine Learning**
 
-- 🌱 I’m currently revising **Data Structures and Algorithms**
+<!-- - 🌱 I’m currently revising **Data Structures and Algorithms** -->
 
 - 👯 I’m looking to collaborate on **projects based on Java and Machine Learning**
 
