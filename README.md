@@ -9,8 +9,8 @@
 </p>
  -->
  
-I am a 3rd-year B.Tech student in Banasthali Vidyapith who always believes in learning and getting experiences as "Every experience makes you grow". I love to do competitive programming. I have worked on Java and Machine Learning. I have also found keen interest in designing too.
-
+<!-- I am a 3rd-year B.Tech student in Banasthali Vidyapith who always believes in learning and getting experiences as "Every experience makes you grow". I love to do competitive programming. I have worked on Java and Machine Learning. I have also found keen interest in designing too.
+ -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya0504&label=Profile%20views&color=0e75b6&style=flat" alt="ananya0504" /> </p> -->
 
 
@@ -20,7 +20,7 @@ I am a 3rd-year B.Tech student in Banasthali Vidyapith who always believes in le
 <!-- https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif -->
 
 
-- 🔭 I’m currently working on - **Machine Learning**
+- 🔭 I’m currently working on - **Machine Learning - tesseract**
 
 <!-- - 🌱 I’m currently revising **Data Structures and Algorithms** -->
 
