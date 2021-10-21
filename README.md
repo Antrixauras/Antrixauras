@@ -20,7 +20,7 @@
 <!-- https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif -->
 
 
-- 🔭 I’m currently working on - **Machine Learning - tesseract**
+<!-- - 🔭 I’m currently working on - **Machine Learning - tesseract** -->
 
 <!-- - 🌱 I’m currently revising **Data Structures and Algorithms** -->
 
